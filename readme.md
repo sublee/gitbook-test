@@ -1,4 +1,4 @@
 Hello, world
 ============
 
-I'm testing [Gitbook](https://gitbook.com/).
+I'm testing [Gitbook](https://www.gitbook.com/).
